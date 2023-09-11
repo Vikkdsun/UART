@@ -20,4 +20,6 @@ rx没有绘制，比较简单。
 
 ![tx_time](https://github.com/Vikkdsun/UART/assets/114153159/a46c533e-0a2f-44b4-90ea-cedf648f591f)
 
-图中展示tx的时序
+图中展示tx的时序。
+
+等待更新....
