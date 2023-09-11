@@ -1,6 +1,8 @@
 # UART学习笔记
 uart project by verilog
 
+Create Date:2023/9/11 22:29
+
 ## UART串口
 包括FIFO、PLL、uart_tx和uart_rx几个小模块组成
 
@@ -21,5 +23,7 @@ rx没有绘制，比较简单。
 ![tx_time](https://github.com/Vikkdsun/UART/assets/114153159/a46c533e-0a2f-44b4-90ea-cedf648f591f)
 
 图中展示tx的时序。
+
+### 本项目文件夹并没有tb文件。
 
 等待更新....
